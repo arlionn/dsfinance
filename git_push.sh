@@ -14,3 +14,4 @@ if [ $? -eq 0 ]; then
     echo "Wiki 页面更新成功！"
 else
     echo "Wiki 页面更新失败！"
+fi
